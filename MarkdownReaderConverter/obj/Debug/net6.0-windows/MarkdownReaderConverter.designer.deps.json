@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HtmlAgilityPack/1.11.54": {
+        "runtime": {
+          "lib/netstandard2.0/HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.11.54.0",
+            "fileVersion": "1.11.54.0"
+          }
+        }
+      },
+      "ReverseMarkdown/3.25.0": {
+        "dependencies": {
+          "HtmlAgilityPack": "1.11.54"
+        },
+        "runtime": {
+          "lib/net6.0/ReverseMarkdown.dll": {
+            "assemblyVersion": "3.25.0.0",
+            "fileVersion": "3.25.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HtmlAgilityPack/1.11.54": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bgB79N4urc4D7hrD4R+Qk6CjPiYOfs6vfXNsmw3nCcfQEQvBQGjfAcl5k/tB1ZP1hA0d7xXs0jK8xAXV36IVUg==",
+      "path": "htmlagilitypack/1.11.54",
+      "hashPath": "htmlagilitypack.1.11.54.nupkg.sha512"
+    },
+    "ReverseMarkdown/3.25.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VU9Oirvzq4aEqfWp4rmQrtnD7Di+G4G/ICF93SBcwv4upDbqz3yLv7Q5TgmC4X373U5C387Ak6dVjfGLiNj32w==",
+      "path": "reversemarkdown/3.25.0",
+      "hashPath": "reversemarkdown.3.25.0.nupkg.sha512"
+    }
+  }
+}

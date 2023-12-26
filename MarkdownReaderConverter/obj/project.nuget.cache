@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KRxyMYgWh5kEusoceJ4i98d6ydeHR49H5IHwx/ACfDuAk05uG2Xm8Yl9g0iAK9OgHwLo7hgypmANVp0hY8zxJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\956775\\Source\\Repos\\HTML2MDWindowsApp\\MarkdownReaderConverter\\MarkdownReaderConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\956775\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512",
+    "C:\\Users\\956775\\.nuget\\packages\\reversemarkdown\\3.25.0\\reversemarkdown.3.25.0.nupkg.sha512",
+    "C:\\Users\\956775\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\956775\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\956775\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\956775\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
